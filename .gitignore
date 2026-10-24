@@ -1,0 +1,29 @@
+node_modules
+dist
+.vercel
+.env
+.env*.local
+.DS_Store
+Thumbs.db
+
+# WordPress backup archives and sqlite dumps
+*.zip
+*.part*
+*.sqlite
+extracted_backup/
+wp_dump*
+
+# Python audit scripts and scratch media
+*.py
+__pycache__/
+*.mp4
+*.mp3
+
+# Audit and presentation screenshots
+full_*.png
+shot_*.png
+
+# Legacy WordPress raw dumps
+live_*.html
+page_*.html
+full_content_inventory.json

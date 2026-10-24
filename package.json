@@ -1,0 +1,19 @@
+{
+  "name": "ayda-coaching-sophrologie-2026",
+  "version": "2.0.0",
+  "private": true,
+  "description": "AYDA Coaching & Sophrologie — 2026 Premium UI/UX Redesign",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "vercel": "^65.2.0",
+    "vite": "^6.4.5"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
